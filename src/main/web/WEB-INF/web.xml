@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <display-name>Friends Finder Application</display-name>
+    <servlet>
+        <servlet-name>FBMainMenu</servlet-name>
+        <servlet-class>com.friendsfinder.facebook.MainMenu</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>FBMainMenu</servlet-name>
+        <url-pattern>/fbhome</url-pattern>
+    </servlet-mapping>
+
+    <display-name>Friends Finder Application</display-name>
+    <servlet>
+        <servlet-name>VKMainMenu</servlet-name>
+        <servlet-class>com.friendsfinder.vkontakte.servlets.MainMenu</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>VKMainMenu</servlet-name>
+        <url-pattern>/vkhome</url-pattern>
+    </servlet-mapping>
+
+    <display-name>Friends Finder Application</display-name>
+    <servlet>
+        <servlet-name>Parameters</servlet-name>
+        <servlet-class>com.friendsfinder.vkontakte.servlets.Parameters</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Parameters</servlet-name>
+        <url-pattern>/settings</url-pattern>
+    </servlet-mapping>
+
+    <display-name>Friends Finder Application</display-name>
+    <servlet>
+        <servlet-name>VKSearch</servlet-name>
+        <servlet-class>com.friendsfinder.vkontakte.servlets.Finder</servlet-class>
+    </servlet>
+
+<servlet-mapping>
+    <servlet-name>VKSearch</servlet-name>
+    <url-pattern>/find</url-pattern>
+</servlet-mapping>
+
+    <display-name>Friends Finder Application</display-name>
+    <servlet>
+        <servlet-name>Sections</servlet-name>
+        <servlet-class>com.friendsfinder.vkontakte.servlets.Sections</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Sections</servlet-name>
+        <url-pattern>/sections</url-pattern>
+    </servlet-mapping>
+
+    <display-name>Friends Finder Application</display-name>
+    <servlet>
+        <servlet-name>Profile</servlet-name>
+        <servlet-class>com.friendsfinder.vkontakte.servlets.Finder</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Profile</servlet-name>
+        <url-pattern>/profile</url-pattern>
+    </servlet-mapping>
+
+
+
+</web-app>

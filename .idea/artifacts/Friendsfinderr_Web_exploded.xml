@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Friendsfinderr:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Friendsfinderr/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Friendsfinderr" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

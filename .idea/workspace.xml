@@ -2,342 +2,76 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="FrinedsFinder:war exploded" />
+      <artifact name="Friendsfinderr:Web exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d5e20a-2804-4ebf-8464-b067a1630806" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/LICENSE.zentus" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/VERSION" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/Running.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/JMorfSdk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/JMorfSdkAccessInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/InitialForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/NumberForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/WordForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/load/JMorfSdkLoad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/load/LoadFromFileAndBD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/load/Property.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/BDSqliteForConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/ConversionDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/FormForConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/PropertyForConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Act.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Alone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Animacy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Case.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Gender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Liso.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Mood.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Name.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Numbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$TepePronoun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$TerminationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Time.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Transitivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$TypeOfSpeech.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$View.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Voice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParametersHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/MorfCharacteristicsAccessInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/NumberOmoForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/OmoForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/Property.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/load/BDFormString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/load/LoadHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/BearingPhraseList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/OmoFormList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/ParagraphList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/SentenceList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/WordList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Linux/amd64/libsqlitejdbc.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Linux/i386/libsqlitejdbc.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Mac/i386/libsqlitejdbc.jnilib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Mac/x86_64/libsqlitejdbc.jnilib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Windows/amd64/sqlitejdbc.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Windows/x86/sqlitejdbc.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/ClassFileCompiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Compiler$Exn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Compiler$Option.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Compiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Interpreter$DebugShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Interpreter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/JavaSourceCompiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Registers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$CPUState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$CallException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$CallJavaCB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$ErrnoException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$ExecutionException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$FD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$FStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$FaultException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$HostFStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$InputOutputStreamFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$ReadFaultException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$SecurityManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$SeekableFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$SocketFStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$TerminalFD$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$TerminalFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$Win32ConsoleIS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$WriteFaultException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/RuntimeCompiler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/RuntimeCompiler$SingleClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/RuntimeCompiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$CygdriveFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$DevDirFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$DevFStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DirFD$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DirFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$FS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ForkedProcess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$GlobalState$CacheEnt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$GlobalState$MP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$GlobalState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$HostFS$HostDirFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$HostFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$Pipe$Reader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$Pipe$Writer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$Pipe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ProcessTableFullExn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ResourceFS$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ResourceFS$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ResourceFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$SocketFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UsermodeConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/crt0.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/support.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/support_aux.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$ELFException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$ELFHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$ELFIdent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$PHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$SHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$SectionInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$Symbol.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$Symtab.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/InodeCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk14FileLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$ByteArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$File.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$InputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$Lock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort$Comparable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort$CompareFunc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Codes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Codes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Conn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Conn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/DB$ProgressObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/DB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/DB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand$BackupCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand$RestoreCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand$SQLExtension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Function$Aggregate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Function.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Function.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/JDBC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/JDBC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/MetaData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/MetaData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NativeDB.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NativeDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NativeDB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB$CausedSQLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/OSInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/OSInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/PrepStmt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/PrepStmt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/RS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/RS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ResourceFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ResourceFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$Encoding.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$JournalMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$LockingMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$Pragma.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$PragmaValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$SynchronousMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$TempStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteDataSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteErrorCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteErrorCode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteJDBCLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteJDBCLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteOpenMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteOpenMode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Stmt$BackupObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Stmt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Stmt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Unused.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Unused.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ARMOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ARMThumbOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ArrayCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$CacheMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$CyclicStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$LazyHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BlockInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BlockOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CloseIgnoringInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CorruptedInputException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CountingInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CountingOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FinishableOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FinishableWrapperOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/IA64Options.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/IndexIndicatorException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Coder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Decoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Encoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2InputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Options.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2OutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMAInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMAOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/MemoryLimitException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/PowerPCOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/RawCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ResettableArrayCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SPARCOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SeekableFileInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SeekableInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SeekableXZInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SimpleInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SimpleOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SingleXZInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/UncompressedLZMA2OutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/UnsupportedOptionsException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/X86Options.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZ.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZFormatException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZIOException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/CRC32.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/CRC64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/Check.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/None.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/SHA256.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/DecoderUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/EncoderUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/StreamFlags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/delta/DeltaCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/delta/DeltaDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/delta/DeltaEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/BlockInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexHash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/BT4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/CRC32Hash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/HC4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/Hash234.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/LZDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/LZEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/Matches.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder$LengthCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder$LiteralCoder$LiteralSubcoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder$LiteralCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$LengthDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$LiteralDecoder$LiteralSubdecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$LiteralDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$LengthEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$LiteralEncoder$LiteralSubencoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$LiteralEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoderFast.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoderNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/Optimum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeDecoderFromBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeDecoderFromStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeEncoderToBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeEncoderToStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/ARM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/ARMThumb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/IA64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/PowerPC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/SPARC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/SimpleFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/X86.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/classes/BDSqlite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/classes/FileHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/classes/Lzma2FileHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/conversion/Bytes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/hash/CityHash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/lib/JMorfSdk-2.10.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/FrinedsFinder_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/FrinedsFinder_war_exploded.xml" />
+    <list default="true" id="c1aa25b7-3a95-4e7e-862a-d40b24f0da87" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/FrinedsFinder_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/java_json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/logging.properties" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/java-json.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/java-json.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-javadoc.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5-javadoc.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.51.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.51.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/animate.css" afterPath="$PROJECT_DIR$/src/main/web/css/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/main/web/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/src/main/web/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/main.css" afterPath="$PROJECT_DIR$/src/main/web/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/enter.jsp" afterPath="$PROJECT_DIR$/src/main/web/enter.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fbwarning.jsp" afterPath="$PROJECT_DIR$/src/main/web/fbwarning.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/find.jsp" afterPath="$PROJECT_DIR$/src/main/web/find.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/main/web/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/Avenir-Light.ttf" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/Avenir-Light.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/FB.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/FB.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/VK.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/VK.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/background.jpg" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/background.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/facebook.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/facebook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/facebookloginbutton.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/facebookloginbutton.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/fbenter.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/fbenter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/fbloginbckgrnd.jpg" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/fbloginbckgrnd.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/logo.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/vkenter.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/vkenter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg.png" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg1.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg2.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg3.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/bg.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/header-bg1.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/header-bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/index.html" afterPath="$PROJECT_DIR$/src/main/web/img/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/iphone.png" afterPath="$PROJECT_DIR$/src/main/web/img/iphone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo-2.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/logo-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo.png" afterPath="$PROJECT_DIR$/src/main/web/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo.svg" afterPath="$PROJECT_DIR$/src/main/web/img/logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo3.png" afterPath="$PROJECT_DIR$/src/main/web/img/logo3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/press-01.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/press-01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/press-02.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/press-02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/src/main/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/main/web/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery-1.11.0.min.js" afterPath="$PROJECT_DIR$/src/main/web/js/jquery-1.11.0.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/main.js" afterPath="$PROJECT_DIR$/src/main/web/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/modernizr-2.7.1.js" afterPath="$PROJECT_DIR$/src/main/web/js/modernizr-2.7.1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/wow.min.js" afterPath="$PROJECT_DIR$/src/main/web/js/wow.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/parameters.jsp" afterPath="$PROJECT_DIR$/src/main/web/parameters.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/profile.jsp" afterPath="$PROJECT_DIR$/src/main/web/profile.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/welcomepage.jsp" afterPath="$PROJECT_DIR$/src/main/web/welcomepage.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrinedsFinder.iml" afterPath="$PROJECT_DIR$/FrinedsFinder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/css/font-awesome.min.css" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -346,118 +80,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Friendsfinder$Runningg__2_.coverage" NAME="Runningg (2) Coverage Results" MODIFIED="1523052254632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.friendsfinder.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="FriendsFinder" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Search.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Search.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Morfology.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="system.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Running.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5-sources.jar!/Running.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Running.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar!/Running.java">
+    <leaf>
+      <file leaf-file-name="Page.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Page.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NestedDB.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar!/org/sqlite/NestedDB.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sections.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Sections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JMorfSdkLoad.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar!/jmorfsdk/load/JMorfSdkLoad.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="724">
-              <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="260">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -465,115 +104,12 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Jsp File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>color</find>
-      <find>lear</find>
-      <find>colors</find>
-      <find>#invite</find>
-      <find>invite</find>
-      <find>sett</find>
-      <find>System.out.println</find>
-      <find>fa</find>
-      <find>fa fa-facebook</find>
-      <find>ids</find>
-      <find>localhost</find>
-      <find>scroll</find>
-      <find>photo_</find>
-      <find>/find</find>
-      <find>VKProfile(</find>
-      <find>getFriendsIds</find>
-      <find>Анна Ив</find>
-      <find>getfr</find>
-      <find>addall</find>
-      <find>01:09:35.194</find>
-      <find>OFFSET</find>
-      <find>Thread</find>
-      <find>СЕЙ</find>
-      <find>System</find>
-      <find>friends</find>
-      <find>getWall</find>
-      <find>img</find>
-      <find>getMe</find>
-      <find>Comparator</find>
-      <find>jmo</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Api.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Vertex.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/JQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Traversal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Graph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/JMorfSdk/Running.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/JMorfSdk/Runningg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/Runningg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/Morfology.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/Morfologyy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/Friend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/odnoklassniki/OKConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/odnoklassniki/OKGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/FBConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Friends.java" />
-        <option value="$PROJECT_DIR$/web/results.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Sections.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/odnoklassniki/MainMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/FBGraph.java" />
-        <option value="$PROJECT_DIR$/web/js/main.js" />
-        <option value="$PROJECT_DIR$/web/js/index.html" />
-        <option value="$PROJECT_DIR$/web/index.html" />
-        <option value="$PROJECT_DIR$/web/img/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/reg.java" />
-        <option value="$PROJECT_DIR$/web/css/main.css" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/MainMenu.java" />
-        <option value="$PROJECT_DIR$/web/fbwarning.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/web/find.jsp" />
-        <option value="$PROJECT_DIR$/web/welcomepage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKBuildProfile.java" />
-        <option value="$PROJECT_DIR$/web/enter.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKConnection.java" />
-        <option value="$PROJECT_DIR$/web/parameters.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/Finder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/Sections.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Parameters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/MainMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Finder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/MainMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Sections.java" />
-        <option value="$PROJECT_DIR$/web/profile.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Parameters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKProfile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Search.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Page.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKGraphMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -589,19 +125,17 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="FriendsFinder" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FriendsFinder" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -616,9 +150,6 @@
     <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -635,8 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -652,20 +181,39 @@
             <path>
               <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
               <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
               <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
               <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="friendsfinder" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
@@ -677,42 +225,17 @@
       </pane>
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34254143" />
-    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../httpcomponents-client-4.5.4" />
-    <property name="SearchEverywhereHistoryKey" value="JMorfSdkLoad&#9;PSI&#9;JAVA://jmorfsdk.load.JMorfSdkLoad&#10;dependencies {&#9;null&#9;null&#10;jmorfsdk&#9;FILE&#9;file:///Users/jhonny/Desktop/КУРСОВАЯ/Friendsfinderr/web/WEB-INF/lib/JMorfSdk-2.10.5.jar&#10;Maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/web/WEB-INF" />
-      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder" />
-      <recent name="$PROJECT_DIR$/web/img" />
-      <recent name="$PROJECT_DIR$/web" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.friendsfinder.finder" />
-      <recent name="com.friendsfinder" />
-      <recent name="com.friendsfinder.JMorfSdk" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/friendsfinder" />
-      <recent name="$PROJECT_DIR$/web/img" />
-      <recent name="$PROJECT_DIR$/web" />
-      <recent name="$PROJECT_DIR$/web/WEB-INF" />
-      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -727,88 +250,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
-    <configuration name="Morfology (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.friendsfinder.finder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.friendsfinder.finder.Morfology" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FrinedsFinder" />
-      <envs />
-    </configuration>
-    <configuration name="Running" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Running" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="Runningg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.friendsfinder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.friendsfinder.Runningg" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FrinedsFinder" />
-      <envs />
-    </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.friendsfinder.finder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.friendsfinder.finder.Search" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FrinedsFinder" />
-      <envs />
-    </configuration>
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M26" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M26" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="FrinedsFinder:war exploded">
+        <artifact name="Friendsfinderr:Web exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_FriendsFinder_2" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Friendsfinderr" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -817,7 +269,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="50321" />
+        <option name="DEBUG_PORT" value="61185" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -866,7 +318,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="FrinedsFinder:war exploded" />
+          <artifact name="Friendsfinderr:Web exploded" />
         </option>
       </method>
     </configuration>
@@ -910,6 +362,67 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Friendsfinderr" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61185" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -950,162 +463,59 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="index.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M26" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/img/index.html" />
-      <deployment>
-        <artifact name="FrinedsFinder:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="index_html_Friendsfinderr" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="FrinedsFinder:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="reg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.friendsfinder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.friendsfinder.reg" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FrinedsFinder" />
-      <envs />
-    </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Morfology (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Running" />
-      <item index="3" class="java.lang.String" itemvalue="Application.reg" />
-      <item index="4" class="java.lang.String" itemvalue="Tomcat Server.index.html" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Search" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Running" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Search" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Morfology (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Tomcat Server.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="Application.reg" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d8d5e20a-2804-4ebf-8464-b067a1630806" name="Default" comment="" />
-      <created>1521585946864</created>
+      <changelist id="c1aa25b7-3a95-4e7e-862a-d40b24f0da87" name="Default" comment="" />
+      <created>1550259617071</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521585946864</updated>
-      <workItem from="1521585950413" duration="24389000" />
-      <workItem from="1521813633019" duration="15744000" />
-      <workItem from="1522277959864" duration="86763000" />
-      <workItem from="1523049298843" duration="49261000" />
-      <workItem from="1523346737566" duration="701000" />
-      <workItem from="1523347722555" duration="28418000" />
-      <workItem from="1523453148179" duration="38403000" />
-      <workItem from="1523539828558" duration="13000" />
-      <workItem from="1523539884829" duration="83534000" />
-      <workItem from="1540821054300" duration="6113000" />
-      <workItem from="1541841013308" duration="2729000" />
-      <workItem from="1542120214831" duration="4000" />
-      <workItem from="1542360925430" duration="22559000" />
-      <workItem from="1548521568015" duration="13187000" />
-      <workItem from="1548789940134" duration="43444000" />
-      <workItem from="1549447317409" duration="1703000" />
-      <workItem from="1549458597804" duration="27788000" />
+      <updated>1550259617071</updated>
+      <workItem from="1550259620428" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444753000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="6" />
+    <frame x="-1" y="23" width="1440" height="810" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21720733" sideWeight="0.14091559" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.007052186" sideWeight="0.4911147" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2911302" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44428772" sideWeight="0.48855507" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19830714" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33991536" sideWeight="0.11230329" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36107194" sideWeight="0.79613733" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.4914163" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21459228" sideWeight="0.8828829" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15937941" sideWeight="0.20386267" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19170243" sideWeight="0.15127702" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.024320457" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1115,416 +525,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/JMorfSdk-2/JMorfSdk-2.10.5.jar!/Running.class</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/Running.class</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/jmorfsdk/load/JMorfSdkLoad.class</url>
-          <line>77</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="31" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/img/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="70" column="39" lean-forward="false" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1274">
-          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/iphone.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/logo3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/press-02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/be-the-first-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/be-the-first-bg3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/be-the-first-bg2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/be-the-first-bg1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/header-bg1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/logo-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/press-01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/FBGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/FBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/MainMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="51" column="36" lean-forward="false" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/parameters.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Friendsfinder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="76" lean-forward="true" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/welcomepage.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1059">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/reg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/fbwarning.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="66" column="49" lean-forward="false" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/enter.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/find.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="74" column="11" lean-forward="false" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/profile.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="53" column="6" lean-forward="false" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/net/www/http/HttpClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5314">
-          <caret line="422" column="0" lean-forward="false" selection-start-line="422" selection-start-column="0" selection-end-line="422" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Parameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Finder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#2354#2355#0" expanded="false" />
-            <element signature="e#2383#2384#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/java-json.jar!/org/json/JSONObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/api/Page.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKGraphMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="277" column="34" lean-forward="false" selection-start-line="277" selection-start-column="34" selection-end-line="277" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/MainMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/jmorfsdk/load/JMorfSdkLoad.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Sections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar!/org/sqlite/Conn.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar!/org/sqlite/DB.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/JMorfSdk-2.10.5.jar!/Running.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#5472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar!/org/sqlite/NestedDB.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5.jar!/jmorfsdk/load/JMorfSdkLoad.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        <state relative-caret-position="60">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="724">
-          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ru/textanalysis/tfwwt/jmorfsdk/2.10.5/jmorfsdk-2.10.5-sources.jar!/Running.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar!/Running.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="260">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1534,7 +551,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>FrinedsFinder:war exploded</last-edited>
+          <last-edited>Friendsfinderr:Web exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1547,7 +564,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (FrinedsFinder)|Web</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1559,7 +576,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jmorfsdk</last-edited>
+          <last-edited>Maven: ru.textanalysis.tfwwt:jmorfsdk:2.10.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1583,7 +600,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>FrinedsFinder</last-edited>
+          <last-edited>Web|Friendsfinderr</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1607,7 +624,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>java-json</last-edited>
+          <last-edited>Maven: commons-logging:commons-logging:1.1.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
