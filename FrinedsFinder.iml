@@ -60,6 +60,6 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" name="JMorfSdk-2.10.5" level="application" />
+    <orderEntry type="library" name="JMorfSdk-2.10.5" level="project" />
   </component>
 </module>
