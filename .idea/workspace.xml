@@ -7,334 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8d5e20a-2804-4ebf-8464-b067a1630806" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/LICENSE.zentus" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/VERSION" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/META-INF/maven/org.xerial/sqlite-jdbc/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/Running.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/JMorfSdk.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/JMorfSdkAccessInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/InitialForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/NumberForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/form/WordForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/load/JMorfSdkLoad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/load/LoadFromFileAndBD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/jmorfsdk/load/Property.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/BDSqliteForConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/ConversionDictionary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/FormForConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/conversion/dictionary/PropertyForConversion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Act.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Alone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Animacy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Case.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Gender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Liso.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Mood.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Name.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Numbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$TepePronoun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$TerminationForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Time.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Transitivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$TypeOfSpeech.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$View.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters$Voice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/grammeme/MorfologyParametersHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/MorfCharacteristicsAccessInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/NumberOmoForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/OmoForm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/internal/Property.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/load/BDFormString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/load/LoadHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/BearingPhraseList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/OmoFormList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/ParagraphList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/SentenceList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/morphological/structures/storage/WordList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Linux/amd64/libsqlitejdbc.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Linux/i386/libsqlitejdbc.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Mac/i386/libsqlitejdbc.jnilib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Mac/x86_64/libsqlitejdbc.jnilib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Windows/amd64/sqlitejdbc.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/native/Windows/x86/sqlitejdbc.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/ClassFileCompiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Compiler$Exn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Compiler$Option.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Compiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Interpreter$DebugShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Interpreter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/JavaSourceCompiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Registers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$CPUState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$CallException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$CallJavaCB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$ErrnoException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$ExecutionException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$FD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$FStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$FaultException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$HostFStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$InputOutputStreamFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$ReadFaultException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$SecurityManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$SeekableFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$SocketFStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$TerminalFD$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$TerminalFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$Win32ConsoleIS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime$WriteFaultException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/Runtime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/RuntimeCompiler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/RuntimeCompiler$SingleClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/RuntimeCompiler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$CygdriveFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$DevDirFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS$DevFStat.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DevFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DirFD$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$DirFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$FS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ForkedProcess.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$GlobalState$CacheEnt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$GlobalState$MP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$GlobalState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$HostFS$HostDirFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$HostFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$Pipe$Reader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$Pipe$Writer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$Pipe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ProcessTableFullExn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ResourceFS$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ResourceFS$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$ResourceFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime$SocketFD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UnixRuntime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/UsermodeConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/crt0.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/support.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/support_aux.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$ELFException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$ELFHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$ELFIdent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$PHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$SHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$SectionInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$Symbol.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF$Symtab.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/ELF.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/InodeCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform$Jdk14FileLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Platform.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$ByteArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$File.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$InputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable$Lock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Seekable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort$Comparable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort$CompareFunc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/ibex/nestedvm/util/Sort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Codes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Codes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Conn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Conn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/DB$ProgressObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/DB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/DB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand$BackupCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand$RestoreCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand$SQLExtension.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ExtendedCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Function$Aggregate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Function.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Function.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/JDBC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/JDBC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/MetaData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/MetaData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NativeDB.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NativeDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NativeDB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB$CausedSQLException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/NestedDB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/OSInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/OSInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/PrepStmt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/PrepStmt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/RS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/RS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ResourceFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/ResourceFinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$Encoding.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$JournalMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$LockingMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$Pragma.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$PragmaValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$SynchronousMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig$TempStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteDataSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteErrorCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteErrorCode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteJDBCLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteJDBCLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteOpenMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/SQLiteOpenMode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Stmt$BackupObserver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Stmt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Stmt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Unused.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/sqlite/Unused.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ARMOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ARMThumbOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ArrayCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BCJOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$CacheMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$CyclicStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache$LazyHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BasicArrayCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BlockInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/BlockOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CloseIgnoringInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CorruptedInputException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CountingInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/CountingOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/DeltaOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FilterOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FinishableOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/FinishableWrapperOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/IA64Options.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/IndexIndicatorException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Coder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Decoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Encoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2InputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2Options.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMA2OutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMAInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/LZMAOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/MemoryLimitException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/PowerPCOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/RawCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/ResettableArrayCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SPARCOptions.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SeekableFileInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SeekableInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SeekableXZInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SimpleInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SimpleOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/SingleXZInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/UncompressedLZMA2OutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/UnsupportedOptionsException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/X86Options.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZ.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZFormatException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZIOException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/XZOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/CRC32.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/CRC64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/Check.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/None.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/check/SHA256.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/DecoderUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/EncoderUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/StreamFlags.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/common/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/delta/DeltaCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/delta/DeltaDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/delta/DeltaEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/BlockInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexHash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/index/IndexRecord.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/BT4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/CRC32Hash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/HC4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/Hash234.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/LZDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/LZEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lz/Matches.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder$LengthCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder$LiteralCoder$LiteralSubcoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder$LiteralCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMACoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$LengthDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$LiteralDecoder$LiteralSubdecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder$LiteralDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMADecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$LengthEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$LiteralEncoder$LiteralSubencoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder$LiteralEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoderFast.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/LZMAEncoderNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/Optimum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/lzma/State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeCoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeDecoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeDecoderFromBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeDecoderFromStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeEncoder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeEncoderToBuffer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/rangecoder/RangeEncoderToStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/ARM.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/ARMThumb.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/IA64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/PowerPC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/SPARC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/SimpleFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/org/tukaani/xz/simple/X86.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/classes/BDSqlite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/classes/FileHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/classes/Lzma2FileHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/conversion/Bytes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/template/wrapper/hash/CityHash.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/lib/JMorfSdk-2.10.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java" afterPath="$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -400,19 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VKConnection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKConnection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <element signature="e#2354#2355#0" expanded="true" />
-                <element signature="e#2383#2384#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JSONObject.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/java-json.jar!/org/json/JSONObject.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -423,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Search.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Search.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="1806">
+              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -448,11 +108,21 @@
       <file leaf-file-name="Morfology.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+            <state relative-caret-position="225">
+              <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JMorfSdkLoad.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/jmorfsdk/load/JMorfSdkLoad.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="83" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1103,12 +773,12 @@
       <workItem from="1548521568015" duration="13187000" />
       <workItem from="1548789940134" duration="43444000" />
       <workItem from="1549447317409" duration="1703000" />
-      <workItem from="1549458597804" duration="20226000" />
+      <workItem from="1549458597804" duration="20483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="437191000" />
+    <option name="totallyTimeSpent" value="437448000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1188,13 +858,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
@@ -1540,23 +1203,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="74" lean-forward="true" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+        <state relative-caret-position="1806">
+          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Search.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="225">
+          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/jmorfsdk/load/JMorfSdkLoad.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="83" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="83" />
+          <folding />
         </state>
       </provider>
     </entry>
