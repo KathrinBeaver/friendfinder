@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8d5e20a-2804-4ebf-8464-b067a1630806" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,8 +109,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+            <state relative-caret-position="379">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -328,6 +327,17 @@
             <path>
               <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
               <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="JMorfSdk-2.10.5.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -393,6 +403,31 @@
               <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="JMorfSdk-2.10.5.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -408,7 +443,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../httpcomponents-client-4.5.4" />
-    <property name="SearchEverywhereHistoryKey" value="Maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="jmorfsdk&#9;FILE&#9;file:///Users/jhonny/Desktop/КУРСОВАЯ/Friendsfinderr/web/WEB-INF/lib/JMorfSdk-2.10.5.jar&#10;Maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -777,12 +812,12 @@
       <workItem from="1548521568015" duration="13187000" />
       <workItem from="1548789940134" duration="43444000" />
       <workItem from="1549447317409" duration="1703000" />
-      <workItem from="1549458597804" duration="15561000" />
+      <workItem from="1549458597804" duration="15948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="432526000" />
+    <option name="totallyTimeSpent" value="432913000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1224,8 +1259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        <state relative-caret-position="379">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
