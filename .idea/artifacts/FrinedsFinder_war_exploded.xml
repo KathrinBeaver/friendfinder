@@ -6,7 +6,7 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="FrinedsFinder" />
-          <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar" path-in-jar="/" />
+          <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/JMorfSdk-2.10.5.jar" path-in-jar="/" />
           <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.ejb.jar" path-in-jar="/" />
           <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.jms.jar" path-in-jar="/" />
           <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.servlet.jar" path-in-jar="/" />

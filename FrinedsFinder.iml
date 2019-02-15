@@ -29,6 +29,17 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="java-json" level="project" />
+    <orderEntry type="module-library">
+      <library name="jmorfsdk">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="Maven: org.camunda.bpm:camunda-engine:7.3.0-alpha2" level="project" />
     <orderEntry type="library" name="Maven: org.camunda.bpm.model:camunda-bpmn-model:7.3.0-alpha2" level="project" />
     <orderEntry type="library" name="Maven: org.camunda.bpm.model:camunda-xml-model:7.3.0-alpha2" level="project" />
@@ -48,13 +59,15 @@
     <orderEntry type="library" name="Maven: org.json:json:20180130" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="module-library">
-      <library name="jmorfsdk">
+      <library name="jmorf">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.51.jar!/" />
         </CLASSES>
-        <JAVADOC />
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-javadoc.jar!/" />
+        </JAVADOC>
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/JMorfSdk-2.10.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
