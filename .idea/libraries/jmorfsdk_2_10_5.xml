@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jmorfsdk-2.10.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
