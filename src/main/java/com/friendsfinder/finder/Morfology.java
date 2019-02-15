@@ -1,9 +1,14 @@
 package com.friendsfinder.finder;
-
+//package ru.textanalysis.tfwwt.jmorfsdk;
 //import r
+//import jmorfsdk.JMorfSdk;
+//import jmorfsdk.load.*;//JMorfSdkLoad;
+//import morphological.structures.internal.OmoForm;
+
 import jmorfsdk.JMorfSdk;
-import jmorfsdk.load.*;//JMorfSdkLoad;
+import jmorfsdk.load.JMorfSdkLoad;
 import morphological.structures.internal.OmoForm;
+//import ru.textanalysis.tfwwt.jmorfsdk.jmorfsdk.load.*;
 
 import java.util.ArrayList;
 import java.util.List;
