@@ -7,70 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1aa25b7-3a95-4e7e-862a-d40b24f0da87" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/FrinedsFinder_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/java_json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/WEB-INF/classes/logging.properties" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/java-json.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/java-json.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-javadoc.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5-javadoc.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.5-sources.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/lib/jmorfsdk-2.10.51.jar" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/lib/jmorfsdk-2.10.51.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/animate.css" afterPath="$PROJECT_DIR$/src/main/web/css/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/main/web/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/src/main/web/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/css/main.css" afterPath="$PROJECT_DIR$/src/main/web/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/enter.jsp" afterPath="$PROJECT_DIR$/src/main/web/enter.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fbwarning.jsp" afterPath="$PROJECT_DIR$/src/main/web/fbwarning.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/find.jsp" afterPath="$PROJECT_DIR$/src/main/web/find.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/main/web/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/web/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/Avenir-Light.ttf" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/Avenir-Light.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/FB.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/FB.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/VK.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/VK.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/background.jpg" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/background.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/facebook.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/facebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/facebookloginbutton.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/facebookloginbutton.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/fbenter.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/fbenter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/fbloginbckgrnd.jpg" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/fbloginbckgrnd.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/logo.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/fonts/img/vkenter.png" afterPath="$PROJECT_DIR$/src/main/web/fonts/img/vkenter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg.png" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg1.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg2.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/be-the-first-bg3.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/be-the-first-bg3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/bg.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/header-bg1.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/header-bg1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/index.html" afterPath="$PROJECT_DIR$/src/main/web/img/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/iphone.png" afterPath="$PROJECT_DIR$/src/main/web/img/iphone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo-2.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/logo-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo.png" afterPath="$PROJECT_DIR$/src/main/web/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo.svg" afterPath="$PROJECT_DIR$/src/main/web/img/logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/logo3.png" afterPath="$PROJECT_DIR$/src/main/web/img/logo3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/press-01.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/press-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/img/press-02.jpg" afterPath="$PROJECT_DIR$/src/main/web/img/press-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/src/main/web/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/main/web/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/jquery-1.11.0.min.js" afterPath="$PROJECT_DIR$/src/main/web/js/jquery-1.11.0.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/main.js" afterPath="$PROJECT_DIR$/src/main/web/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/modernizr-2.7.1.js" afterPath="$PROJECT_DIR$/src/main/web/js/modernizr-2.7.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/js/wow.min.js" afterPath="$PROJECT_DIR$/src/main/web/js/wow.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/parameters.jsp" afterPath="$PROJECT_DIR$/src/main/web/parameters.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/profile.jsp" afterPath="$PROJECT_DIR$/src/main/web/profile.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/welcomepage.jsp" afterPath="$PROJECT_DIR$/src/main/web/welcomepage.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/lib/jmorfsdk-2.10.51.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/jmorfsdk-2.10.5-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/jmorfsdk-2.10.5-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/jmorfsdk-2.10.51.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Friendsfinderr.iml" afterPath="$PROJECT_DIR$/.idea/Friendsfinderr.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FrinedsFinder.iml" afterPath="$PROJECT_DIR$/FrinedsFinder.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/out/artifacts/FrinedsFinder_war_exploded/css/font-awesome.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,12 +34,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
               <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Morfology.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="38" column="48" lean-forward="false" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,37 +140,6 @@
             </path>
             <path>
               <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="friendsfinder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="friendsfinder" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -233,9 +156,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.34254143" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/web/WEB-INF" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -474,16 +402,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550259617071</updated>
-      <workItem from="1550259620428" duration="656000" />
+      <workItem from="1550259620428" duration="1605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="656000" />
+    <option name="totallyTimeSpent" value="1605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="810" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -502,11 +429,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -542,6 +469,16 @@
         <state relative-caret-position="260">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/finder/Morfology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="38" column="48" lean-forward="false" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -600,7 +537,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|Friendsfinderr</last-edited>
+          <last-edited>Friendsfinderr</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
