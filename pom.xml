@@ -70,6 +70,9 @@
         <!--<systemPath>/Users/jhonny/Downloads/Friendsfinderr/web/WEB-INF/lib/java-json.jar</systemPath>-->
         <!--</dependency>-->
 
+        <!--mvn install:install-file -Dfile=/Users/jhonny/Desktop/КУРСОВАЯ/Friendsfinderr/web/WEB-INF/lib/JMorfSdk-2.10.5.jar  -DgroupId=ru.textanalysis.tfwwt \-->
+        <!-- -DartifactId=jmorfsdk -Dversion=2.10.5 -Dpackaging=jar-->
+
     </dependencies>
 
 </project>
