@@ -7,51 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1aa25b7-3a95-4e7e-862a-d40b24f0da87" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/facebook/MainMenu.class" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/facebook/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Finder.class" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Finder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/MainMenu.class" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Parameters.class" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Parameters.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Sections.class" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Sections.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/facebook/MainMenu.class" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/facebook/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Finder.class" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Finder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/MainMenu.class" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Parameters.class" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Parameters.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Sections.class" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/classes/com/friendsfinder/vkontakte/servlets/Sections.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/friendsfinder/facebook/MainMenu.class" afterPath="$PROJECT_DIR$/target/classes/com/friendsfinder/facebook/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/Finder.class" afterPath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/Finder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/MainMenu.class" afterPath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/Parameters.class" afterPath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/Parameters.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/Sections.class" afterPath="$PROJECT_DIR$/target/classes/com/friendsfinder/vkontakte/servlets/Sections.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Friendsfinderr.iml" afterPath="$PROJECT_DIR$/.idea/Friendsfinderr.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/enter.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/enter.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/fbwarning.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/fbwarning.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/find.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/find.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/parameters.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/parameters.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/profile.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/profile.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/welcomepage.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Friendsfinderr_Web_exploded/welcomepage.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/MainMenu.java" afterPath="$PROJECT_DIR$/src/main/java/com/friendsfinder/facebook/MainMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Finder.java" afterPath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Finder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/MainMenu.java" afterPath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/MainMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Parameters.java" afterPath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Parameters.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Sections.java" afterPath="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/Sections.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/enter.jsp" afterPath="$PROJECT_DIR$/src/main/web/enter.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/fbwarning.jsp" afterPath="$PROJECT_DIR$/src/main/web/fbwarning.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/find.jsp" afterPath="$PROJECT_DIR$/src/main/web/find.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/index.jsp" afterPath="$PROJECT_DIR$/src/main/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/parameters.jsp" afterPath="$PROJECT_DIR$/src/main/web/parameters.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/profile.jsp" afterPath="$PROJECT_DIR$/src/main/web/profile.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/web/welcomepage.jsp" afterPath="$PROJECT_DIR$/src/main/web/welcomepage.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system.properties" afterPath="$PROJECT_DIR$/system.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/FriendsFinder-1.0-SNAPSHOT/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+            <state relative-caret-position="171">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/web/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="138" column="22" lean-forward="false" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+            <state relative-caret-position="435">
+              <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -143,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcomepage.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="welcomepage.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/web/welcomepage.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="112" column="78" lean-forward="true" selection-start-line="112" selection-start-column="78" selection-end-line="112" selection-end-column="78" />
+            <state relative-caret-position="531">
+              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -191,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/index.html" />
         <option value="$PROJECT_DIR$/system.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/servlets/MainMenu.java" />
@@ -207,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/main/web/find.jsp" />
         <option value="$PROJECT_DIR$/src/main/web/parameters.jsp" />
         <option value="$PROJECT_DIR$/src/main/web/profile.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -318,6 +278,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Friendsfinderr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Friendsfinderr" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -341,8 +309,8 @@
       <recent name="$PROJECT_DIR$/src/main/web" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/web/WEB-INF" />
       <recent name="$PROJECT_DIR$/src/main/web" />
+      <recent name="$PROJECT_DIR$/src/main/web/WEB-INF" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
@@ -588,7 +556,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550259617071</updated>
       <workItem from="1550259620428" duration="3337000" />
-      <workItem from="1551017856765" duration="6346000" />
+      <workItem from="1551017856765" duration="7563000" />
     </task>
     <task id="LOCAL-00001" summary="add jmorf in web-inf">
       <created>1550261266899</created>
@@ -601,11 +569,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18836000" />
+    <option name="totallyTimeSpent" value="20053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -655,13 +622,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/xml/internal/ws/transport/http/client/HttpClientTransport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="284" column="25" lean-forward="false" selection-start-line="284" selection-start-column="25" selection-end-line="284" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/friendsfinder/vkontakte/VKGraphMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3230">
@@ -935,14 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="501">
@@ -1009,8 +961,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/web/welcomepage.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="112" column="78" lean-forward="true" selection-start-line="112" selection-start-column="78" selection-end-line="112" selection-end-column="78" />
+        <state relative-caret-position="531">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding />
         </state>
       </provider>
