@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Friendsfinder">
+    <output-path>$PROJECT_DIR$/out/artifacts/Friendsfinder</output-path>
+    <root id="archive" name="Friendsfinder.jar">
+      <element id="javaee-facet-resources" facet="Friendsfinderr/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Friendsfinderr" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
