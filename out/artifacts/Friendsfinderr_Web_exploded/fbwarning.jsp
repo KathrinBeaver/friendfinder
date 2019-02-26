@@ -47,7 +47,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-6">
-                <a href="index.jsp"><img src="img/logo3.png" alt="Logo"></a>
+                <a href="/"><img src="img/logo3.png" alt="Logo"></a>
             </div>
             <%--<div class="col-xs-6 signin text-right navbar-nav">--%>
             <%--<a href="#pricing" class="scroll">Pricing</a>&nbsp; &nbsp;<a href="#">Sign in</a>--%>
@@ -64,7 +64,7 @@
                     за предоставленные неудобства.</p>
                 <p></p>
                 <br />
-                <button type="submit" href="index.jsp" class="btn btn-primary btn-lg">Назад</button>
+                <button type="submit" href="/" class="btn btn-primary btn-lg">Назад</button>
 
             </div>
 

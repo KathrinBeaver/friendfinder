@@ -47,7 +47,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-6">
-                <a href="index.jsp"><img src="img/logo3.png" alt="Logo"></a>
+                <a href="/"><img src="img/logo3.png" alt="Logo"></a>
             </div>
             <%--<div class="col-xs-6 signin text-right navbar-nav">--%>
                 <%--<a href="#pricing" class="scroll">Pricing</a>&nbsp; &nbsp;<a href="#">Sign in</a>--%>
@@ -69,7 +69,7 @@
                             </div>
                             <!--1.4s-->
                             <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="1.4s">
-                                <a href="/enter.jsp" class="btn btn-primary btn-lg">Искать</a>
+                                <a href="/enter" class="btn btn-primary btn-lg">Искать</a>
                             </div>
                         </div><!--End Button Row-->
                     </div>

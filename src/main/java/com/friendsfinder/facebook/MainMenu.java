@@ -47,7 +47,7 @@ private String code="";
 
         session.setAttribute("name", name);
         session.setAttribute("net", "fb");
-        res.sendRedirect("/fbwarning.jsp");
+        res.sendRedirect("/fbwarning");
     }
 
     private static Logger log = Logger.getLogger(com.friendsfinder.vkontakte.servlets.MainMenu.class.getName());

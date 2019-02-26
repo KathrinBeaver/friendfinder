@@ -27,7 +27,7 @@ public class Sections extends HttpServlet {
         if (request.getParameter("wall") != null) sec += "wall,";
         if (request.getParameter("interests") != null) sec += "interests";
         if (sec.equals("")) {
-            response.sendRedirect("/welcomepage.jsp");
+            response.sendRedirect("/welcomepage");
         }
         else {
             HttpSession session = request.getSession();
@@ -61,7 +61,7 @@ public class Sections extends HttpServlet {
                     log.log(Level.SEVERE, "Exeption: ", e);
                 }
             }
-            response.sendRedirect("/find.jsp");
+            response.sendRedirect("/findpage");
         }
 
         private void check(ArrayList<VKProfile> fr){

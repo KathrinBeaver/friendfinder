@@ -69,6 +69,73 @@
         <url-pattern>/profile</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>Enter</servlet-name>
+        <jsp-file>/enter.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>Enter</servlet-name>
+        <url-pattern>/enter</url-pattern>
+    </servlet-mapping>
 
+    <servlet>
+        <servlet-name>FBwarning</servlet-name>
+        <jsp-file>/fbwarning.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>FBwarning</servlet-name>
+        <url-pattern>/fbwarning</url-pattern>
+    </servlet-mapping>
 
+    <servlet>
+        <servlet-name>Params</servlet-name>
+        <jsp-file>/parameters.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>Params</servlet-name>
+        <url-pattern>/params</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Find</servlet-name>
+        <jsp-file>/find.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>Find</servlet-name>
+        <url-pattern>/findpage</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Profilepage</servlet-name>
+        <jsp-file>/profile.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>Profilepage</servlet-name>
+        <url-pattern>/profilepage</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Welcomepage</servlet-name>
+        <jsp-file>/welcomepage.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>Welcomepage</servlet-name>
+        <url-pattern>/welcomepage</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Index</servlet-name>
+        <jsp-file>/index.jsp</jsp-file>
+    </servlet>
+    <!--mapping-->
+    <servlet-mapping>
+        <servlet-name>Index</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
 </web-app>

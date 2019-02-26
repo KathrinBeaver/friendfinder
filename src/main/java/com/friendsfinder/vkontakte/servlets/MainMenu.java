@@ -34,7 +34,7 @@ public class MainMenu extends HttpServlet {
 
             //TODO добавить сообщение
             if (code == null || code.equals("")) {
-                res.sendRedirect("/index.jsp");
+                res.sendRedirect("/index");
                 return;
             } else {
                 log.info("code from auth = " + code);
@@ -55,7 +55,7 @@ public class MainMenu extends HttpServlet {
             session.setAttribute("me", me);
             session.setAttribute("net", "vk");
             session.setAttribute("name", name);
-            res.sendRedirect("/parameters.jsp");
+            res.sendRedirect("/params");
         }
 
     private static Logger log = Logger.getLogger(MainMenu.class.getName());

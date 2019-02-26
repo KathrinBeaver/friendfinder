@@ -1,0 +1,15 @@
+com/friendsfinder/finder/Search.class
+com/friendsfinder/facebook/MainMenu.class
+com/friendsfinder/vkontakte/servlets/MainMenu.class
+com/friendsfinder/vkontakte/servlets/Sections.class
+com/friendsfinder/finder/Morfology.class
+com/friendsfinder/vkontakte/servlets/Finder.class
+com/friendsfinder/facebook/FBConnection.class
+com/friendsfinder/reg.class
+com/friendsfinder/vkontakte/VKGraphMethods.class
+com/friendsfinder/vkontakte/VKConnection.class
+com/friendsfinder/vkontakte/VKProfile.class
+com/friendsfinder/vkontakte/servlets/Parameters.class
+com/friendsfinder/vkontakte/VKProfile$1.class
+com/friendsfinder/facebook/FBGraph.class
+com/friendsfinder/api/Page.class

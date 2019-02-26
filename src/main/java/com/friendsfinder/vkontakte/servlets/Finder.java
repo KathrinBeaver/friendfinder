@@ -16,7 +16,7 @@ public class Finder extends HttpServlet {
         //System.out.println("i from class: " + i);
         HttpSession session = request.getSession();
         session.setAttribute("number", i);
-        response.sendRedirect("/profile.jsp");
+        response.sendRedirect("/profilepage");
     }
     private static Logger log = Logger.getLogger(MainMenu.class.getName());
 

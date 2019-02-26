@@ -41,7 +41,7 @@ public class Parameters  extends HttpServlet {
     } catch (InterruptedException e) {
         log.log(Level.SEVERE, "initialize", e);
     }
-        res.sendRedirect("/welcomepage.jsp");
+        res.sendRedirect("/welcomepage");
     }
 
 //    private void proverka(VKGraph me){

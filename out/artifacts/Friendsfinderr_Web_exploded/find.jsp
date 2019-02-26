@@ -61,7 +61,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-6">
-                <a href="index.jsp"><img src="img/logo3.png" alt="Logo"></a>
+                <a href="/"><img src="img/logo3.png" alt="Logo"></a>
             </div>
         </div>
 
