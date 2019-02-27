@@ -28,6 +28,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jmorfsdk-2.10.5" level="project" />
+    <orderEntry type="library" name="SearchPossibleNotion_v_1.3" level="project" />
     <orderEntry type="library" name="Maven: org.camunda.bpm:camunda-engine:7.3.0-alpha2" level="project" />
     <orderEntry type="library" name="Maven: org.camunda.bpm.model:camunda-bpmn-model:7.3.0-alpha2" level="project" />
     <orderEntry type="library" name="Maven: org.camunda.bpm.model:camunda-xml-model:7.3.0-alpha2" level="project" />
@@ -47,6 +48,5 @@
     <orderEntry type="library" name="Maven: org.json:json:20180130" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: ru.textanalysis.tfwwt:jmorfsdk:2.10.5" level="project" />
-    <orderEntry type="library" name="SearchPossibleNotion_v_1.3" level="project" />
   </component>
 </module>

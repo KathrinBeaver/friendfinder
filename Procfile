@@ -1,1 +1,1 @@
-web: java -jar target/Friendsfinder.jar
+web: java -jar target/FriendsFinder-1.0-SNAPSHOT.jar
